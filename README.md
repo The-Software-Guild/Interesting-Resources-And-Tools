@@ -6,3 +6,4 @@ If you have a cool resource to share, add a new readme file, or add the existing
 ### Current existing pages!
 * [Damn Fancy People](./misc/DamnFancyPeople.md)
 * [Jams & Hackathons](./misc/JamsAndHackathons.md)
+* [Supplemental](./misc/Supplemental.md)
